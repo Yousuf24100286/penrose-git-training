@@ -45,4 +45,5 @@ Session Attendees:
 - Rohama Salfi (Student) : [Github Profile](https://github.com/rohxama)
 
 - Mohsin ALI : [GitHub Profile](https://www.github.com/M0hsinali)
+- Umme Aiman : [GitHub Profile](https://github.com/umme-aimany)
 
