@@ -17,8 +17,9 @@ export default function Home() {
 
       <h1>Home</h1>
       <p>Welcome to your Next.js site!</p>
-
+      <h1 className="text-white text-xl">Welcome to our site</h1>
       <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque possimus eius assumenda quaerat minus, odio voluptatum fuga at a libero debitis optio pariatur mollitia quidem velit, repellendus, neque nostrum voluptatem.</p>
+      <button className="bg-gray-800 text-white rounded-sm px-3 py-2">Sign Up</button>
     </div>
   );
 }
