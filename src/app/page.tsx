@@ -17,6 +17,8 @@ export default function Home() {
 
       <h1>Home</h1>
       <p>Welcome to your Next.js site!</p>
+
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque possimus eius assumenda quaerat minus, odio voluptatum fuga at a libero debitis optio pariatur mollitia quidem velit, repellendus, neque nostrum voluptatem.</p>
     </div>
   );
 }
