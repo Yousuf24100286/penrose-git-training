@@ -41,3 +41,4 @@ This is a repository for the Git & GitHub Training Session
 
 Session Attendees:
 - Yousuf Khan (Instructor) : [GitHub Profile](https://www.github.com/Yousuf24100286)
+- Mohsin ALI : [GitHub Profile](https://www.github.com/M0hsinali)
